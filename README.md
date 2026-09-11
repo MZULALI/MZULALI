@@ -4,6 +4,6 @@ Founding engineer at Not A Number Labs, 2025–2026: **Vibecode**, an AI app bui
 
 I build the plumbing between AI models and real products: agent harnesses, sandboxed execution, context management, and the evals that sometimes tell you whether any of it works.
 
-Some fun projects: **Continuo**, a strictly causal real-time music model that plays along with a live musician, and **[podguard](https://github.com/MZULALI/podguard)**, a deadline watchdog so a GPU pod never idle-bills overnight.
+Some fun projects: **Continuo**, a strictly causal real-time music model that plays along with a live musician.
 
 [LinkedIn](https://www.linkedin.com/in/mzulali)  ·  mzulali0@gmail.com
